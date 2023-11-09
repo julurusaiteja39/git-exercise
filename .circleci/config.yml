@@ -24,4 +24,4 @@ workflows:
             - build_and_push:
                 filters:
                     branches:
-                        only: EMS-50
+                        only: feature_6
